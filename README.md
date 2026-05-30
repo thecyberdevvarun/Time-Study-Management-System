@@ -601,9 +601,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+**Varun Yadav**
+- GitHub: [@thecyberdevvarun](https://github.com/thecyberdevvarun)
+- LinkedIn: [linkedin.com/in/thecyberdevvarun](https://linkedin.com/in/thecyberdevvarun)
 
 ---
 

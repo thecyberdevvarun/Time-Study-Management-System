@@ -4,9 +4,11 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-16-000000?logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-22-5FA04E?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-5-000000?logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.111-009688?logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-4169E1?logo=postgresql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-2022-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-FF6B35)
 
